@@ -4,7 +4,7 @@ from html import escape as esc
 import json, re, subprocess, sys
 
 ROOT = Path(__file__).resolve().parent
-SKILL = Path('/home/nmaldaner/projetos/formato-curso-inema/formato-curso-v6')
+SKILL = Path('/home/nmaldaner/projetos/formato-curso-ARCKHÉ/formato-curso-v6')
 base = json.loads((ROOT/'context/conteudo-base.json').read_text())
 lessons = json.loads((ROOT/'context/aulas-editoriais.json').read_text())
 
@@ -77,10 +77,10 @@ for i,d in enumerate(lessons,1):
 <div class="pcodewrap"><button class="pcopy" type="button">copiar ficha</button><pre class="pcode">{esc(d['molde'])}</pre></div><ol class="psteps">{checklist}</ol><p class="pdone">Ao cumprir os passos, você consegue {esc(d['entrega'])}.</p></section>
 <div class="fecho"><div class="cola"><p class="k">Cola da aula</p><h3>{esc(d['titulo'])}</h3><ol>{cola}</ol></div><div class="next-action"><p class="nak">Seu próximo passo</p><p class="na-win">Você já tem critérios para {esc(d['entrega'])}.</p><p class="na-action">Guarde a entrega desta aula na pasta do projeto. Ela será usada na etapa seguinte.</p><p class="na-hook">Próximo passo: {esc(next_title)}</p></div></div>
 <details class="complementar"><summary>{esc(d.get("complemento", "Material complementar"))} · módulo {(i-1)//3+1}<small>Produção e cuidados para retomar depois da prática curta.</small></summary>{complement}</details>
-<nav class="lnav"><a href="#trilha">trilha</a><a class="next" href="{next_link}">{'próxima aula' if i<len(lessons) else 'rever a trilha'}</a></nav><p class="aula-pe">Aula {i} · Visual DNA v6.2 · INEMA.CLUB PRO</p></div>
+<nav class="lnav"><a href="#trilha">trilha</a><a class="next" href="{next_link}">{'próxima aula' if i<len(lessons) else 'rever a trilha'}</a></nav><p class="aula-pe">Aula {i} · Visual DNA v6.2 · ARCKHÉ AI PRO</p></div>
 <script type="application/json" id="cards-{i}">{json.dumps([{'front':a,'back':b} for a,b in d['cartoes']],ensure_ascii=False)}</script></section>'''
     (ROOT/f'aulas/aula-{i}.html').write_text(html)
 
-cfg={'id':'visual-dna-v62','titulo':base['title'],'titulo_html':'Dê sentido <em>à sua marca</em>','curso_curto':'Visual DNA v6.2','kicker':'Direção de arte v6.2 · 5 módulos · 15 aulas','lead':'Transforme mensagem, referências e critérios em um sistema visual que você consegue explicar e repetir.','imagem_trilha':'assets/img/trilha.webp','alt_trilha':'Designer e costureira examinam um reparo aparente em uma oficina.','rodape':'Visual DNA v6.2 · INEMA.CLUB PRO · <a href="landing.html">sobre o curso</a>','landing':'landing.html','glossario':True,'modulos':[{'titulo':f'Módulo {i} · '+m['title'],'resumo':m['promise'],'aulas':list(range((i-1)*3+1,i*3+1))} for i,m in enumerate(base['modules'],1)]}
+cfg={'id':'visual-dna-v62','titulo':base['title'],'titulo_html':'Dê sentido <em>à sua marca</em>','curso_curto':'Visual DNA v6.2','kicker':'Direção de arte v6.2 · 5 módulos · 15 aulas','lead':'Transforme mensagem, referências e critérios em um sistema visual que você consegue explicar e repetir.','imagem_trilha':'assets/img/trilha.webp','alt_trilha':'Designer e costureira examinam um reparo aparente em uma oficina.','rodape':'Visual DNA v6.2 · ARCKHÉ AI PRO · <a href="landing.html">sobre o curso</a>','landing':'landing.html','glossario':True,'modulos':[{'titulo':f'Módulo {i} · '+m['title'],'resumo':m['promise'],'aulas':list(range((i-1)*3+1,i*3+1))} for i,m in enumerate(base['modules'],1)]}
 (ROOT/'curso.json').write_text(json.dumps(cfg,ensure_ascii=False,indent=2)+'\n')
 subprocess.run([sys.executable,str(SKILL/'scripts/montar-curso.py'),str(ROOT)],check=True)

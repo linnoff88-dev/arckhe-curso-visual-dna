@@ -1,4 +1,4 @@
-﻿# Visual DNA v6.2
+# Visual DNA v6.2
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -14,7 +14,7 @@ IlustraÃ§Ãµes geradas com Codex image_gen; o mecanismo nÃ£o expÃµe selet
 
 ## English / EspaÃ±ol
 
-[English](https://inematds.github.io/curso-visual-dna/en/) Â· [EspaÃ±ol](https://inematds.github.io/curso-visual-dna/es/)
+[English](https://linnoff88-dev.github.io/ Â· [EspaÃ±ol](https://linnoff88-dev.github.io/
 
 Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraÃ§Ãµes originais compartilhadas; progresso e anotaÃ§Ãµes separados por idioma.
 
@@ -30,13 +30,13 @@ Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos s
 
 EvidÃªncias em `context/validacao-i18n.md`. RevisÃµes por agentes sÃ£o simuladas, nÃ£o testes com alunos reais.
 
-<!-- inema-backlink:v1 -->
-## Mais no INEMA.CLUB
+<!-- ARCKHÉ-backlink:v1 -->
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/296-visual-dna-direcao-de-arte-e-branding-com-ia-v6-2/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
-<!-- /inema-backlink:v1 -->
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/296-visual-dna-direcao-de-arte-e-branding-com-ia-v6-2/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
+<!-- /ARCKHÉ-backlink:v1 -->
 
 ---
 
