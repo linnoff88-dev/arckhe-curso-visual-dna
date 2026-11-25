@@ -91,11 +91,11 @@
       "en": "file and mood",
       "es": "archivo y ambiente"
     },
-    "arquivo e decisão": {
+    "arquivo e decisêo": {
       "en": "file and decision",
       "es": "archivo y decisión"
     },
-    "arquivo e duração": {
+    "arquivo e duraçêo": {
       "en": "file and duration",
       "es": "archivo y duración"
     },
@@ -119,7 +119,7 @@
       "en": "file and interface reference",
       "es": "archivo y referencia de la interfaz"
     },
-    "arquivo e revisão": {
+    "arquivo e revisêo": {
       "en": "file and review",
       "es": "archivo y revisión"
     },
@@ -131,11 +131,11 @@
       "en": "clean or pending file",
       "es": "archivo limpio o pendiente"
     },
-    "arquivo ou ainda não gerado + motivo": {
+    "arquivo ou ainda nêo gerado + motivo": {
       "en": "file or not generated yet + reason",
       "es": "archivo o aún no generado + motivo"
     },
-    "arquivo ou anotação": {
+    "arquivo ou anotaçêo": {
       "en": "file or note",
       "es": "archivo o nota"
     },
@@ -159,15 +159,15 @@
       "en": "file without text",
       "es": "archivo sin texto"
     },
-    "arquivo, modelo, revisão": {
+    "arquivo, modelo, revisêo": {
       "en": "file, model, review",
       "es": "archivo, modelo, revisión"
     },
-    "arquivo, tempo, ação": {
+    "arquivo, tempo, açêo": {
       "en": "file, time, action",
       "es": "archivo, tiempo, acción"
     },
-    "arquivo, versão, revisão": {
+    "arquivo, versêo, revisêo": {
       "en": "file, version, review",
       "es": "archivo, versión, revisión"
     },
@@ -207,7 +207,7 @@
       "en": "lesson 3",
       "es": "lección 3"
     },
-    "ação real ou troca de foto": {
+    "açêo real ou troca de foto": {
       "en": "real action or photo swap",
       "es": "acción real o cambio de foto"
     },
@@ -243,7 +243,7 @@
       "en": "coverage, fabric, garment",
       "es": "cobertura, tela, prenda"
     },
-    "condição": {
+    "condiçêo": {
       "en": "condition",
       "es": "condición"
     },
@@ -251,7 +251,7 @@
       "en": "checked",
       "es": "revisada"
     },
-    "conferida ou pendente; não confundir com MP4": {
+    "conferida ou pendente; nêo confundir com MP4": {
       "en": "checked or pending; do not confuse with MP4",
       "es": "revisada o pendiente; no confundir con MP4"
     },
@@ -263,7 +263,7 @@
       "en": "review",
       "es": "revisión"
     },
-    "configuração": {
+    "configuraçêo": {
       "en": "setting",
       "es": "configuración"
     },
@@ -283,7 +283,7 @@
       "en": "continuity or similarity",
       "es": "continuidad o semejanza"
     },
-    "contribuição ou excesso": {
+    "contribuiçêo ou excesso": {
       "en": "contribution or excess",
       "es": "aporte o exceso"
     },
@@ -339,11 +339,11 @@
       "en": "real data",
       "es": "datos reales"
     },
-    "decisão": {
+    "decisêo": {
       "en": "decision",
       "es": "decisión"
     },
-    "decisão para outra peça": {
+    "decisêo para outra peça": {
       "en": "decision for another piece",
       "es": "decisión para otra pieza"
     },
@@ -375,7 +375,7 @@
       "en": "describe",
       "es": "describir"
     },
-    "descrição": {
+    "descriçêo": {
       "en": "description",
       "es": "descripción"
     },
@@ -391,15 +391,15 @@
       "en": "day",
       "es": "día"
     },
-    "direção": {
+    "direçêo": {
       "en": "direction",
       "es": "dirección"
     },
-    "direção + motivo": {
+    "direçêo + motivo": {
       "en": "direction + reason",
       "es": "dirección + motivo"
     },
-    "distração específica": {
+    "distraçêo específica": {
       "en": "specific distraction",
       "es": "distracción específica"
     },
@@ -415,7 +415,7 @@
       "en": "two clues",
       "es": "dos pistas"
     },
-    "duração e tipo": {
+    "duraçêo e tipo": {
       "en": "duration and type",
       "es": "duración y tipo"
     },
@@ -471,15 +471,15 @@
       "en": "known requirement or to confirm",
       "es": "requisito conocido o por confirmar"
     },
-    "explicação curta": {
+    "explicaçêo curta": {
       "en": "short explanation",
       "es": "explicación breve"
     },
-    "ficha e autorização": {
+    "ficha e autorizaçêo": {
       "en": "sheet and permission",
       "es": "ficha y autorización"
     },
-    "fidelidade ou exploração": {
+    "fidelidade ou exploraçêo": {
       "en": "fidelity or exploration",
       "es": "fidelidad o exploración"
     },
@@ -519,7 +519,7 @@
       "en": "photo in the gallery or drawing on paper",
       "es": "foto en la galería o dibujo en papel"
     },
-    "foto ou impressão": {
+    "foto ou impressêo": {
       "en": "photo or printout",
       "es": "foto o impresión"
     },
@@ -527,11 +527,11 @@
       "en": "photo/drawing",
       "es": "foto/dibujo"
     },
-    "função": {
+    "funçêo": {
       "en": "purpose",
       "es": "función"
     },
-    "função e quadro": {
+    "funçêo e quadro": {
       "en": "purpose and frame",
       "es": "función y cuadro"
     },
@@ -539,7 +539,7 @@
       "en": "purposes",
       "es": "funciones"
     },
-    "gravação ou síntese": {
+    "gravaçêo ou síntese": {
       "en": "recording or synthesis",
       "es": "grabación o síntesis"
     },
@@ -555,11 +555,11 @@
       "en": "identity and palette",
       "es": "identidad y paleta"
     },
-    "identificação": {
+    "identificaçêo": {
       "en": "identification",
       "es": "identificación"
     },
-    "identificação das duas versões": {
+    "identificaçêo das duas versões": {
       "en": "identification of both versions",
       "es": "identificación de las dos versiones"
     },
@@ -575,7 +575,7 @@
       "en": "whole or redo",
       "es": "completo o rehacer"
     },
-    "início e duração": {
+    "início e duraçêo": {
       "en": "start and duration",
       "es": "inicio y duración"
     },
@@ -651,7 +651,7 @@
       "en": "change or undone attempt",
       "es": "cambio o intento deshecho"
     },
-    "multiplicação": {
+    "multiplicaçêo": {
       "en": "multiplication",
       "es": "multiplicación"
     },
@@ -679,7 +679,7 @@
       "en": "screen name",
       "es": "nombre de la pantalla"
     },
-    "nome de imagem ou modelo da imagem não confirmado": {
+    "nome de imagem ou modelo da imagem nêo confirmado": {
       "en": "image name or image model not confirmed",
       "es": "nombre de imagen o modelo de imagen sin confirmar"
     },
@@ -699,7 +699,7 @@
       "en": "name in the account",
       "es": "nombre en la cuenta"
     },
-    "nome observado ou ainda não usado": {
+    "nome observado ou ainda nêo usado": {
       "en": "observed name or not used yet",
       "es": "nombre observado o aún no usado"
     },
@@ -735,7 +735,7 @@
       "en": "note",
       "es": "nota"
     },
-    "não usada ou configuração": {
+    "nêo usada ou configuraçêo": {
       "en": "not used or setting",
       "es": "no usada o configuración"
     },
@@ -743,7 +743,7 @@
       "en": "number",
       "es": "número"
     },
-    "número e função": {
+    "número e funçêo": {
       "en": "number and purpose",
       "es": "número y función"
     },
@@ -795,15 +795,15 @@
       "en": "object and color",
       "es": "objeto y color"
     },
-    "observação": {
+    "observaçêo": {
       "en": "observation",
       "es": "observación"
     },
-    "observação limitada": {
+    "observaçêo limitada": {
       "en": "limited observation",
       "es": "observación limitada"
     },
-    "observação ou pendente": {
+    "observaçêo ou pendente": {
       "en": "observation or pending",
       "es": "observación o pendiente"
     },
@@ -819,7 +819,7 @@
       "en": "optional, actual status",
       "es": "opcional, estado real"
     },
-    "operação": {
+    "operaçêo": {
       "en": "operation",
       "es": "operación"
     },
@@ -827,7 +827,7 @@
       "en": "operations performed",
       "es": "operaciones realizadas"
     },
-    "opção da conta": {
+    "opçêo da conta": {
       "en": "account option",
       "es": "opción de la cuenta"
     },
@@ -839,7 +839,7 @@
       "en": "authorized source",
       "es": "origen autorizado"
     },
-    "origem e situação": {
+    "origem e situaçêo": {
       "en": "source and status",
       "es": "origen y situación"
     },
@@ -847,11 +847,11 @@
       "en": "or none",
       "es": "o ninguno"
     },
-    "outro termo, sem repetir decisão": {
+    "outro termo, sem repetir decisêo": {
       "en": "another term, without repeating the decision",
       "es": "otro término, sin repetir la decisión"
     },
-    "padrão": {
+    "padrêo": {
       "en": "pattern",
       "es": "patrón"
     },
@@ -899,11 +899,11 @@
       "en": "points or segments",
       "es": "puntos o fragmentos"
     },
-    "posição com espaço": {
+    "posiçêo com espaço": {
       "en": "position with space",
       "es": "posición con espacio"
     },
-    "posição e espaço livre": {
+    "posiçêo e espaço livre": {
       "en": "position and clear space",
       "es": "posición y espacio libre"
     },
@@ -919,7 +919,7 @@
       "en": "problem",
       "es": "problema"
     },
-    "problema e correção": {
+    "problema e correçêo": {
       "en": "problem and fix",
       "es": "problema y corrección"
     },
@@ -931,7 +931,7 @@
       "en": "product, shadow, and frame",
       "es": "producto, sombra y cuadro"
     },
-    "proporção": {
+    "proporçêo": {
       "en": "proportion",
       "es": "proporción"
     },
@@ -1015,11 +1015,11 @@
       "en": "record",
       "es": "registro"
     },
-    "região": {
+    "regiêo": {
       "en": "region",
       "es": "región"
     },
-    "relação com o objetivo": {
+    "relaçêo com o objetivo": {
       "en": "connection to the goal",
       "es": "relación con el objetivo"
     },
@@ -1039,7 +1039,7 @@
       "en": "verifiable result",
       "es": "resultado verificable"
     },
-    "revisão": {
+    "revisêo": {
       "en": "review",
       "es": "revisión"
     },
@@ -1051,7 +1051,7 @@
       "en": "seconds",
       "es": "segundos"
     },
-    "sensação e mensagem": {
+    "sensaçêo e mensagem": {
       "en": "feeling and message",
       "es": "sensación y mensaje"
     },
@@ -1059,7 +1059,7 @@
       "en": "yes or adjust",
       "es": "sí o ajustar"
     },
-    "sim ou não": {
+    "sim ou nêo": {
       "en": "yes or no",
       "es": "sí o no"
     },
@@ -1079,7 +1079,7 @@
       "en": "signal",
       "es": "señal"
     },
-    "situação": {
+    "situaçêo": {
       "en": "situation",
       "es": "situación"
     },
@@ -1095,11 +1095,11 @@
       "en": "three effects only",
       "es": "solo tres efectos"
     },
-    "sua decisão": {
+    "sua decisêo": {
       "en": "your decision",
       "es": "tu decisión"
     },
-    "sua versão": {
+    "sua versêo": {
       "en": "your version",
       "es": "tu versión"
     },
@@ -1175,7 +1175,7 @@
       "en": "one problem",
       "es": "un problema"
     },
-    "uma ação": {
+    "uma açêo": {
       "en": "one action",
       "es": "una acción"
     },
@@ -1183,7 +1183,7 @@
       "en": "one of the five",
       "es": "una de las cinco"
     },
-    "uma decisão": {
+    "uma decisêo": {
       "en": "one decision",
       "es": "una decisión"
     },
@@ -1243,7 +1243,7 @@
       "en": "account values",
       "es": "valores de la cuenta"
     },
-    "valores disponíveis ou não disponíveis": {
+    "valores disponíveis ou nêo disponíveis": {
       "en": "available or unavailable values",
       "es": "valores disponibles o no disponibles"
     },
@@ -1259,11 +1259,11 @@
       "en": "variable",
       "es": "variable"
     },
-    "versão final": {
+    "versêo final": {
       "en": "final version",
       "es": "versión final"
     },
-    "versão, modo, entradas, custo": {
+    "versêo, modo, entradas, custo": {
       "en": "version, mode, inputs, cost",
       "es": "versión, modo, entradas, costo"
     },

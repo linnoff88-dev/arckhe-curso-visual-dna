@@ -6,19 +6,19 @@
 </div>
 
 
-Curso gratuito de direÃ§Ã£o de arte com caso fictÃ­cio autoral.
+Curso gratuito de direêÂ§êÂ£o de arte com caso fictêÂ­cio autoral.
 
-Fontes editoriais em context/conteudo-base.json e context/aulas-editoriais.json. Montar com `python3 montar.py`; motor oficial formato-curso-v6 necessÃ¡rio.
+Fontes editoriais em context/conteudo-base.json e context/aulas-editoriais.json. Montar com `python3 montar.py`; motor oficial formato-curso-v6 necessêÂ¡rio.
 
-IlustraÃ§Ãµes geradas com Codex image_gen; o mecanismo nÃ£o expÃµe seletor de versÃ£o do modelo nesta sessÃ£o. NÃ£o contÃ©m vÃ­deos ou transcriÃ§Ãµes do material de origem.
+IlustraêÂ§êÂµes geradas com Codex image_gen; o mecanismo nêÂ£o expêÂµe seletor de versêÂ£o do modelo nesta sessêÂ£o. NêÂ£o contêÂ©m vêÂ­deos ou transcriêÂ§êÂµes do material de origem.
 
-## English / EspaÃ±ol
+## English / EspaêÂ±ol
 
-[English](https://linnoff88-dev.github.io/ Â· [EspaÃ±ol](https://linnoff88-dev.github.io/
+[English](https://linnoff88-dev.github.io/ êÂ· [EspaêÂ±ol](https://linnoff88-dev.github.io/
 
-Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraÃ§Ãµes originais compartilhadas; progresso e anotaÃ§Ãµes separados por idioma.
+Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraêÂ§êÂµes originais compartilhadas; progresso e anotaêÂ§êÂµes separados por idioma.
 
-ApÃ³s montar o portuguÃªs, reaplique os catÃ¡logos salvos:
+ApêÂ³s montar o portuguêÂªs, reaplique os catêÂ¡logos salvos:
 
 ```sh
 python3 scripts/i18n_local.py build .
@@ -26,17 +26,17 @@ python3 scripts/verify_i18n.py .
 node scripts/check_i18n_browser.cjs . /tmp/curso-i18n-checks
 ```
 
-Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos scripts. A montagem nÃ£o chama modelos nem redes. MudanÃ§as na fonte PT exigem revisar os catÃ¡logos `i18n/`. O motor oficial `assets/curso.js` Ã© preservado; a proteÃ§Ã£o de importaÃ§Ã£o Ã© gerada em `assets/curso-i18n.js` e nas ediÃ§Ãµes traduzidas.
+Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos scripts. A montagem nêÂ£o chama modelos nem redes. MudanêÂ§as na fonte PT exigem revisar os catêÂ¡logos `i18n/`. O motor oficial `assets/curso.js` êÂ© preservado; a proteêÂ§êÂ£o de importaêÂ§êÂ£o êÂ© gerada em `assets/curso-i18n.js` e nas ediêÂ§êÂµes traduzidas.
 
-EvidÃªncias em `context/validacao-i18n.md`. RevisÃµes por agentes sÃ£o simuladas, nÃ£o testes com alunos reais.
+EvidêÂªncias em `context/validacao-i18n.md`. RevisêÂµes por agentes sêÂ£o simuladas, nêÂ£o testes com alunos reais.
 
-<!-- ARCKHÉ-backlink:v1 -->
-## Mais no ARCKHÉ AI
+<!-- ARCKHê-backlink:v1 -->
+## Mais no ARCKHê AI
 
-- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/296-visual-dna-direcao-de-arte-e-branding-com-ia-v6-2/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
-<!-- /ARCKHÉ-backlink:v1 -->
+- [Ficha completa deste curso](https://www.ARCKHê AI/cursos/296-visual-dna-direcao-de-arte-e-branding-com-ia-v6-2/)
+- [Guia: como aprender inteligêÂªncia artificial](https://www.ARCKHê AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHê AI/cursos/)
+<!-- /ARCKHê-backlink:v1 -->
 
 ---
 

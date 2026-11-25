@@ -1,5 +1,5 @@
 # Minha legenda de DNA visual
-Versão e data:
+Versêo e data:
 Responsável:
 
 ## Núcleo em cinco linhas
@@ -9,10 +9,10 @@ Oferta:
 Diferença observável:
 Evidência disponível ou pendente:
 
-## Mensagem e ação
+## Mensagem e açêo
 Mensagem:
-Sensação desejada (hipótese):
-Ação para o público:
+Sensaçêo desejada (hipótese):
+Açêo para o público:
 
 ## Três pilares
 1. Pilar / escolha visível / recusa:
@@ -22,10 +22,10 @@ Ação para o público:
 ## Painel com seis referências
 Assunto 1 e 2 / origem / aproveitar / evitar:
 Luz 1 e 2 / origem / aproveitar / evitar:
-Composição 1 e 2 / origem / aproveitar / evitar:
+Composiçêo 1 e 2 / origem / aproveitar / evitar:
 
 ## Mapa de significado (seis a dez elementos)
-Elemento / função / associação desejada / teste
+Elemento / funçêo / associaçêo desejada / teste
 Fundo:
 Texto:
 Destaque:
@@ -38,24 +38,24 @@ Três características fixas:
 Uma variável permitida:
 Imagem 1 (arquivo real):
 Imagem 2 (arquivo real):
-Comparação e decisão:
-Origem e autorização:
+Comparaçêo e decisêo:
+Origem e autorizaçêo:
 
 ## Aplicações
-Apresentação / arquivo / revisão:
-Convite / arquivo / revisão:
-Detalhe / arquivo / revisão:
+Apresentaçêo / arquivo / revisêo:
+Convite / arquivo / revisêo:
+Detalhe / arquivo / revisêo:
 
-## Percepção
+## Percepçêo
 Perguntas neutras:
 Coleta: realizada ou pendente
 Fala registrada:
-Interpretação (hipótese):
+Interpretaçêo (hipótese):
 Próximo teste:
 
-## Revisão
-Mensagem / leitura / evidência / coerência / repetição:
+## Revisêo
+Mensagem / leitura / evidência / coerência / repetiçêo:
 Exemplo aprovado e motivo:
 Exemplo rejeitado e motivo:
-Mudança desta versão:
+Mudança desta versêo:
 Pendências reais:
